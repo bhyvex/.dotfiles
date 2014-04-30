@@ -3,6 +3,7 @@ alias reload!='. ~/.zshrc'
 alias cdot='cd ~/.dotfiles'
 alias cproj='cd ~/Projects'
 alias proj='cd ~/Projects'
+alias oct='cd ~/Projects/octanner'
 alias dot='~/.dotfiles/install'
 
 # dotfiles
