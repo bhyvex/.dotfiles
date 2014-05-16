@@ -52,6 +52,7 @@ for dir in $pathdirs; do
   fi
 done
 
+# If there is a local .zshprofile, load it
 if [[ -f ~/.zshprofile ]]; then
   source ~/.zshprofile
 fi
